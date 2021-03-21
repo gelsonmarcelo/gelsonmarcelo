@@ -1,6 +1,6 @@
 - 👋 Olá, sou @gelsonmarcelo
 - 👀 Atualmente faço a faculdade de Análise e Desenvolvimento de Sistemas (5ª fase), já cursei Técnico em Informática e gosto muito da área de programação. Pretendo trabalhar com programação e desenvolver mais essa habilidade.
-- 🌱 Estou aprendendo o desenvolvimento para mobile utilizando Flutter, sei criar páginas HTML com CSS e programar em Java, PHP, Pyton e C#. Mas estou aberto para aprender qualquer linguagem que seja necessária.
+- 🌱 Estou aprendendo o desenvolvimento para mobile utilizando Flutter, sei criar páginas HTML com CSS e programar em Java, PHP, Python e C#. Mas estou aberto para aprender qualquer linguagem que seja necessária.
 - 💞️ Gostaria de trabalhar programando desde já, porém atualmente faço estágio na área de Suporte/Manutenção de TI. Nunca trabalhei na área, porém me dou bem com as matérias de programação na faculdade e sei que vou gostar de trabalhar em um projeto real.
 - 💞️ Sei falar Inglês em nível avançado.
-- 📫 Você Pode me encontrar através do meu e-mail gelsonschikorski@hotmail.com
+- 📫 Você pode me encontrar através do meu e-mail gelsonschikorski@hotmail.com
