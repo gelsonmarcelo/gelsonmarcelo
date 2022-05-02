@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gelsonmarcelo&label=Profile%20views&color=0e75b6&style=flat" alt="gelsonmarcelo" /> </p>
 
-- 🔭 I’m currently working on [Letras](https://www.letras.mus.br/)
+- 🧑‍🚀 I’m currently working at [Letras](https://www.letras.mus.br/)
 
 - 🌱 I’m currently learning **Mobile App Development**
 
