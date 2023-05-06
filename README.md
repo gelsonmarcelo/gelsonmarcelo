@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gelson Marcelo</h1>
-<p align="left">Formado em Técnologo em Análise e Desenvolvimento de Sistemas pelo Instituto Federal Catarinense, estou atualmente me especializando em desenvolvimento mobile, com foco em Android. Sou apaixonado por tecnologia e gosto de estar sempre aprendendo e aprimorando minhas habilidades em programação. Estou sempre em busca de novas maneiras de aplicar meus conhecimentos e habilidades em soluções inovadoras.</p>
+<p align="left">I have a degree in Technology in Systems Analysis and Development from the Federal Institute of Santa Catarina, and I am currently specializing in mobile development, with a focus on Android. I am passionate about technology and enjoy constantly learning and improving my programming skills. I am always looking for new ways to apply my knowledge and skills to innovative solutions.
+  <hr>
+
+Formado em Técnologo em Análise e Desenvolvimento de Sistemas pelo Instituto Federal Catarinense, estou atualmente me especializando em desenvolvimento mobile, com foco em Android. Sou apaixonado por tecnologia e gosto de estar sempre aprendendo e aprimorando minhas habilidades em programação. Estou sempre em busca de novas maneiras de aplicar meus conhecimentos e habilidades em soluções inovadoras.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gelsonmarcelo&label=Profile%20views&color=0e75b6&style=flat" alt="gelsonmarcelo" /> </p>
 
